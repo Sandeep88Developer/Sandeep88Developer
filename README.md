@@ -1,9 +1,3 @@
-# 👋 Hi, I'm Sandeep Sharma
-
-🚀 Full Stack Developer | MERN | PHP | CMS Expert
-
----
-
 <h1 align="center">Hi 👋, I'm Sandeep Sharma</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN | PHP | CMS Expert</h3>
 
